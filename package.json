@@ -1,4 +1,5 @@
-{
+{  
+  "homepage": "https://vronx93.github.io/rock-scissors-paper/",
   "name": "rock-scissors-paper",
   "private": true,
   "version": "0.0.0",
@@ -11,7 +12,6 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://vronx93.github.io/rock-paper-scissors",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
